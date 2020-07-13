@@ -7,5 +7,10 @@ p {
 }
 
 h2 {
-    font-size: 24;
+    font-size: 24px;
+}
+
+i.fa-apple{
+    font-size: 70px;
+    color: chartreuse;
 }
